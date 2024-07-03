@@ -1,5 +1,5 @@
 {
-    "image": "https://ipfs.io/ipfs/Qme2NPMwnHcES25zrEbGQ7EPSpKrxzRCQG6p6nzXSFfy3i",
+    "image": "https://ipfs.io/ipfs/QmTyBtrVyc9jfUUZkuWpps9keePGGojT6VWeREoW3AgPdF",
     "animation_url": "",
     "description": "You made at least one contribution to the Conflux Documentation. Thanks a lot for your contribution to support the development of Conflux infrastructures!",
     "external_link": "",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Level",
-            "value": "Normal"
+            "value": "Outstanding"
         },
         {
             "trait_type": "StartDate",
-            "value": "January-01-2024"
+            "value": "April-01-2024"
         },
         {
             "trait_type": "EndDate",
-            "value": "March-31-2024"
+            "value": "June-30-2024"
         }
     ]
 }
